@@ -1,0 +1,4 @@
+docx==0.2.4
+nltk==3.7
+pyresparser==1.0.6
+python_docx==0.8.11
